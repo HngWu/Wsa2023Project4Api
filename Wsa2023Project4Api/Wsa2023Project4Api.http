@@ -1,0 +1,6 @@
+@Wsa2023Project4Api_HostAddress = http://localhost:5197
+
+GET {{Wsa2023Project4Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
